@@ -1,4 +1,3 @@
-//Reto 6 por Jorge Eduardo Tello Castillo - 2957482
 import java.io.*;
 
 public class Main
